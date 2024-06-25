@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1MfKd5h3JdqQsgYCIw80YOVQWPJMOefjn/view?usp=drive_link"  />
+  <img height="150" src="https://github.com/athulgr/athulgr/blob/main/profile-pic.png"  />
 </div>
 
 ###
