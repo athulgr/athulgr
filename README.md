@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm  a passionate developer<br><br>- 🔭 I’m perusing B-tech<br>- 📚 I'm currently learning Js<br>- ⚡ In my free time I binge films.</p>
+<p align="left">I'm  a passionate developer<br><br>- 🔭 B-tech Graduate <br>- 📚 I'm currently learning React<br>- ⚡ In my free time I binge films.</p>
 
 ###
 
